@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="welcomeMessage">WELCOME</string>
+
+</resources>
